@@ -1,9 +1,9 @@
 ---
 layout: resume
-title: Linda Spellman's Resume
+title: Brigham Young's Resume
 ---
-# Linda Spellman
-Computer Science student at Brigham Young University
+# Brigham Young
+The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
