@@ -7,7 +7,6 @@ Computer Science student at Brigham Young University.
 
 <div id="webaddress">
 <a href="lindaspellman@live.com">lindaspellman@live.com</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/linda-spellman-760676182/">LinkedIn</a>
 | <a href="https://github.com/lindaspellman">GitHub</a>
 </div>
@@ -20,6 +19,17 @@ __Brigham Young University - Idaho__
 *July 2024*  
 - Computer Science Bachelor's Degree
 - 3.6 GPA
+- Languages: 
+-- Python
+-- C++
+-- C#
+-- HTML
+-- JavaScript
+-- SQL: 
+--- MySQL
+--- Oracle 18c - PL/SQL
+--- PostgreSQL
+
 
 ## Service and Work History
 __Receptionist__  
@@ -31,8 +41,7 @@ July 2019 – August 2019
 __Child Watch Worker__  
 August 2019 – October 2019  
 *Clyde Recreation Center*
-- Took care of patron cleanliness
-- Surveyed child activities and mitigated any conflict between any children
+- Surveyed child activities and mitigated any conflict between children
 - Facilitated educational learning for my charges and “peace time” for overstimulated children
 - Supported healthy team functioning among my co-workers
 		 
@@ -41,8 +50,8 @@ July 2015 – April 2016
 *Swedish Medical Center*
 - Efficiently executed patient database queries in order to assist visitors and callers
 - Correctly directed patients and visitors to the necessary departments
-- Improved patient moral by delivering mail, gifts and flowers
-- Supported gift shop functioning by organizing gift shop merchandise 
+- Improved patient morale by delivering mail, gifts and flowers
+- Supported gift shop functioning by organizing merchandise 
 
 
 <!-- ### Footer
