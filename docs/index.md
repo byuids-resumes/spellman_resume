@@ -16,7 +16,8 @@ Computer Science student at Brigham Young University.
 
 ## Education
                                      
-__Brigham Young University - Idaho__, Rexburg, ID       `July 2024`
+__Brigham Young University - Idaho__			*July 2024*  
+Rexburg, ID  
 - Computer Science Bachelor's Degree
 - 3.6 GPA
 
