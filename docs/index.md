@@ -25,23 +25,16 @@ Rexburg, ID
 __Receptionist__  
 July 2019 – August 2019  
 *Pet Central*
-- Received customers at the front desk
-- Checked pets into boarding or daycare
-- Walked dogs
-- Fed and gave water to pets
-- Cleaned kennels, did laundry, and washed dishes
-
+- Operated the business alone during my shift by caring for patron pets and completing daily chores
+- Streamlined customer check-in time by 15%
 
 __Child Watch Worker__  
 August 2019 – October 2019  
 *Clyde Recreation Center*
-- Helped children wash hands and receive name tags
-- Continually scanned the room in order to mitigate any conflict between any children
-- Comforted upset children and sought them to distract them with toys or a movie
-- Facilitated “peace time” for overstimulated children
-- Played with the children
-
-
+- Took care of patron cleanliness
+- Surveyed child activities and mitigated any conflict between any children
+- Facilitated educational learning for my charges and “peace time” for overstimulated children
+- Supported healthy team functioning among my co-workers
 		 
 __Volunteer__  
 July 2015 – April 2016  
