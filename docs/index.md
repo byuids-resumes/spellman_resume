@@ -22,6 +22,22 @@ Rexburg, ID
 - 3.6 GPA
 
 ## Service and Work History
+__Receptionist__   				                                          *July 2019 – August 2019*  
+*Pet Central*
+- Received customers at the front desk
+- Checked pets into boarding or daycare
+- Walked dogs
+- Fed and gave water to pets
+- Cleaned kennels, did laundry, and washed dishes
+
+
+__Child Watch Worker__					             *August 2019 – October 2019*
+*Clyde Recreation Center*
+- Helped children wash hands and receive name tags
+- Continually scanned the room in order to mitigate any conflict between any children
+- Comforted upset children and sought them to distract them with toys or a movie
+- Facilitated “peace time” for overstimulated children
+- Played with the children
 
 
 		 
