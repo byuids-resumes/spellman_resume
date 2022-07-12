@@ -22,7 +22,8 @@ Rexburg, ID
 - 3.6 GPA
 
 ## Service and Work History
-__Receptionist__   				                                          *July 2019 – August 2019*  
+__Receptionist__  
+July 2019 – August 2019  
 *Pet Central*
 - Received customers at the front desk
 - Checked pets into boarding or daycare
@@ -31,7 +32,8 @@ __Receptionist__   				                                          *July 2019 – 
 - Cleaned kennels, did laundry, and washed dishes
 
 
-__Child Watch Worker__					             *August 2019 – October 2019*
+__Child Watch Worker__  
+August 2019 – October 2019  
 *Clyde Recreation Center*
 - Helped children wash hands and receive name tags
 - Continually scanned the room in order to mitigate any conflict between any children
@@ -41,7 +43,8 @@ __Child Watch Worker__					             *August 2019 – October 2019*
 
 
 		 
-__Volunteer__                                      				            July 2015 – April 2016
+__Volunteer__  
+July 2015 – April 2016  
 *Swedish Medical Center*
 - Efficiently executed patient database queries in order to assist visitors and callers
 - Correctly directed patients and visitors to the necessary departments
