@@ -16,22 +16,22 @@ Computer Science student at Brigham Young University.
 ## Education
                                      
 __Brigham Young University - Idaho__  
-*July 2024*  
+`July 2024`  
 - Computer Science Bachelor's Degree
 - 3.6 GPA
 - Languages: Python, C++, C#, HTML, JavaScript, SQL (MySQL, Oracle 18c - PL/SQL, PostgreSQL)
 
 ## Service and Work History
-__Receptionist__  
-July 2019 – August 2019  
+__Receptionist__    
 *Pet Central*
+`July 2019 – August 2019`
 - Operated the business alone during my shift by caring for patron pets and completing daily chores
 - Streamlined customer check-in time by 15%
 
-__Child Watch Worker__  
-August 2019 – October 2019  
+__Child Watch Worker__   
 *Clyde Recreation Center*
-- Surveyed child activities and mitigated any conflict between children
+`August 2019 – October 2019` 
+- Administered activities for the children and mitigated any conflict between children
 - Facilitated educational learning for my charges and “peace time” for overstimulated children
 - Supported healthy team functioning among my co-workers
 		 
