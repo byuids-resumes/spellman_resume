@@ -19,17 +19,7 @@ __Brigham Young University - Idaho__
 *July 2024*  
 - Computer Science Bachelor's Degree
 - 3.6 GPA
-- Languages: 
--- Python
--- C++
--- C#
--- HTML
--- JavaScript
--- SQL: 
---- MySQL
---- Oracle 18c - PL/SQL
---- PostgreSQL
-
+- Languages: Python, C++, C#, HTML, JavaScript, SQL (MySQL, Oracle 18c - PL/SQL, PostgreSQL)
 
 ## Service and Work History
 __Receptionist__  
