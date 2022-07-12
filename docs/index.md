@@ -22,14 +22,14 @@ __Brigham Young University - Idaho__
 - Languages: Python, C++, C#, HTML, JavaScript, SQL (MySQL, Oracle 18c - PL/SQL, PostgreSQL)
 
 ## Service and Work History
-__Receptionist__    
-*Pet Central*
+__Receptionist__  
+*Pet Central*  
 `July 2019 – August 2019`
 - Operated the business alone during my shift by caring for patron pets and completing daily chores
 - Streamlined customer check-in time by 15%
 
 __Child Watch Worker__   
-*Clyde Recreation Center*
+*Clyde Recreation Center*  
 `August 2019 – October 2019` 
 - Administered activities for the children and mitigated any conflict between children
 - Facilitated educational learning for my charges and “peace time” for overstimulated children
