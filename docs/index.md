@@ -13,6 +13,16 @@ Computer Science student at Brigham Young University.
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+## Skills
+
+- Python
+- JavaScript
+- HTML
+- Markdown
+- SQL: PL/SQL, PL/PGSQL, MySQL
+- C++
+- C#
+
 ## Education
                                      
 __Brigham Young University - Idaho__  
